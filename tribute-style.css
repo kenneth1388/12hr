@@ -1,0 +1,39 @@
+#main {
+    background-color: black;
+    display: flex-column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #title {
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  #img-div {
+   
+  }
+  
+  #image {
+    
+    width: 90%;
+  }
+  
+  #img-caption {
+    color: white;
+  }
+  
+  #tribute-info {
+    color: white;
+  }
+  
+  #tribute-link {
+    
+  }
+  
+  #footer {
+    justify-self: center;
+    color: white;
+  }
+  
